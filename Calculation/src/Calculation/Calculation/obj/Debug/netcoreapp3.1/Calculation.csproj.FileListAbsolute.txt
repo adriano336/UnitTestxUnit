@@ -1,0 +1,12 @@
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.exe
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.deps.json
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.runtimeconfig.json
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.runtimeconfig.dev.json
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.dll
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.pdb
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfoInputs.cache
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfo.cs
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.csproj.CoreCompileInputs.cache
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.dll
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.pdb
+C:\Udemy\TDD&Moq\Calculation\src\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.genruntimeconfig.cache
